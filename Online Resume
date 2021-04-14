@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Aditya Singh Thakur | Fresher</title>
+          <meta charset="utf-8">
+          <meta name="viewport" content="width=device-width initial-scale=1 shrink-to-fit=no">
+     </head>
+     <body>
+          <nav>
+              <ul>
+                 <li>Home</li>
+                 <li>About</li>
+                 <li>Education</li>
+                 <li>Skills</li>
+                 <li>Hobbies</li>
+                 <li>Contact</li>
+               <ul>
+           </nav>
+           <div>
+               <h6>Aditya Singh Thakur</h6>
+               <h2>Fresher</h2>
+           </div>
+           <div>
+               <h1>About</h1>
+               <p>
+                   I'm an IT Engineer. I have been working on different web technologies to build websites. I am a passionate writer and I love to express myself. I am enthusiastic and energetic. I'm working with HTML5, CSS3, JS, WordPress, AWS, PHP, Photoshop, GCP, GIT. I'm a gaming freak.
+               </p>
+           </div>
+           <div>
+               <h1>Education</h1>
+               <div>
+                   <h1>Schooling:KV NTPC Dibiyapur</h1>
+                   <h2>English Medium</h2>
+                   <h3>82%</h3>
+               </div>
+               <div>
+                   <h1>Intermediate: KV NTPC Dibiyapur</h1>
+                   <h2>M.P.C</h2>
+                   <h3>73%</h3>
+               </div>
+               <div>
+                   <h1>Graduation: CGC Landran</h1>
+                   <h2>Information Technology</h2>
+                   <h3>70%</h3>
+               </div>
+           </div>
+           <div>
+               <h1>Skills</h1>
+               <div>
+                   <ul>
+                      <li>HTML5</li>
+                      <li>CSS3</li>
+                      <li>JS</li>
+                   </ul>
+               </div>
+               <div>
+                   <ul>
+                      <li>WordPress</li>
+                      <li>BootStrap</li>
+                      <li>Foundation</li>
+                   </ul>
+               </div>
+               <div>
+                   <ul>
+                      <li>Photoshop</li>
+                      <li>Illustrator</li>
+                      <li>MSWord & Excel</li>
+                   </ul>
+               </div>
+           </div>
+           <div>
+               <h1>Hobbies</h1>
+               </ul>
+                   <li>Playing Games</li>
+                   <li>Chess</li>
+                   <li>Writing</li>
+               </ul>
+           </div>
+           <div>
+               <h1>Contact Me:</h1>
+               <p>
+                   Balehr Khas Yol Camp<br>
+                   adityathakur6845@gmail.com<br>
+                   7088066784<br>
+               </ul>
+           </div>
+           <!--
+               html
+               head
+               body
+               nav
+               ul
+               div
+               h1
+               <p>
+           -->
+    </body>
+</html>
