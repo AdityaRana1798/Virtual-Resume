@@ -17,8 +17,8 @@
                <ul>
            </nav>
            <div>
-               <h6>Aditya Singh Thakur</h6>
-               <h2>Fresher</h2>
+               <h2>Aditya Singh Thakur</h2>
+               <h3>Fresher</h3>
            </div>
            <div>
                <h1>About</h1>
@@ -27,25 +27,25 @@
                </p>
            </div>
            <div>
-               <h1>Education</h1>
+               <h3>Education</h3>
                <div>
-                   <h1>Schooling:KV NTPC Dibiyapur</h1>
-                   <h2>English Medium</h2>
-                   <h3>82%</h3>
+                   <h4>Schooling:KV NTPC Dibiyapur</h4>
+                   <h4>English Medium</h4>
+                   <h4>82%</h4>
                </div>
                <div>
-                   <h1>Intermediate: KV NTPC Dibiyapur</h1>
-                   <h2>M.P.C</h2>
-                   <h3>73%</h3>
+                   <h4>Intermediate: KV NTPC Dibiyapur</h4>
+                   <h4>M.P.C</h4>
+                   <h4>73%</h4>
                </div>
                <div>
-                   <h1>Graduation: CGC Landran</h1>
-                   <h2>Information Technology</h2>
-                   <h3>70%</h3>
+                   <h4>Graduation: CGC Landran</h4>
+                   <h4>Information Technology</h4>
+                   <h4>70%</h4>
                </div>
            </div>
            <div>
-               <h1>Skills</h1>
+               <h3>Skills</h3>
                <div>
                    <ul>
                       <li>HTML5</li>
